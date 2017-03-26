@@ -53,3 +53,6 @@ bld/
 
 #TLOG files
 *.tlog
+*.filters
+*.vcxproj
+*.sln
